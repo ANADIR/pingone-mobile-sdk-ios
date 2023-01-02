@@ -10,35 +10,31 @@
 		</data>
 		<key>Headers/PingOneSDK-Swift.h</key>
 		<data>
-		UQgHQK57MerGQQyETXsjLf0sJ+E=
+		HgOhOgm1lDrc11wDkQos6jDgmHI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+Mhn5Polx5HbKkCv39VE0/CBm9c=
+		jXX+MbHZZTY/niCDpksb+HqVGhg=
+		</data>
+		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		SzU4L7ptzRzTXmtuZ7wfdcqqcQ8=
+		</data>
+		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		2W2RZgyY6WX3nr0e71xTQ3y1u9c=
 		</data>
 		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		VQf3XBCwXzRyjALVOfQUYQ92jBI=
+		i+FlhB3l2VI3hTUGKr+ghCTDigQ=
 		</data>
 		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		FM3ER3hD2U0rF2WUA5N1l1aOv4A=
+		2W2RZgyY6WX3nr0e71xTQ3y1u9c=
 		</data>
 		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qDynCkIIvpMmnwsV6ebfuerTpGk=
-		</data>
-		<key>Modules/PingOneSDK.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		VQf3XBCwXzRyjALVOfQUYQ92jBI=
-		</data>
-		<key>Modules/PingOneSDK.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		FM3ER3hD2U0rF2WUA5N1l1aOv4A=
-		</data>
-		<key>Modules/PingOneSDK.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		qDynCkIIvpMmnwsV6ebfuerTpGk=
+		v//HO1Lr8vPcpfN7uxECNy/h80w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,49 +54,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7OAgGDFj/60fbofVs8qROPTjIGkFBHplQF1XmkTOMs=
+			mOv3l1fGSL/nMHoXCHvrEW/kGsC3eoaYIchn6K00EzM=
+			</data>
+		</dict>
+		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BoyQ1wc7CZZl2QBmwHm72ZsEdQ7jDxSc4XW06bJnEn8=
+			</data>
+		</dict>
+		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N+Jlne8eDfj3rM8X+v4z3NB1V5TJZbHY4PI4tR423jI=
 			</data>
 		</dict>
 		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ZgYfJMNwg/cVbuRwWvcUFdcwz8MbBlQK4Zx+gXzlFs=
+			IS2fFuJajsfJQdJ3GZooB6y9LICdGr9fyj5iB2dRUfU=
 			</data>
 		</dict>
 		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Txe2IoMDMtMD503qYu9JvoMH7xcX8fZCuICURSG7MfE=
+			N+Jlne8eDfj3rM8X+v4z3NB1V5TJZbHY4PI4tR423jI=
 			</data>
 		</dict>
 		<key>Modules/PingOneSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pTdDXXZKL8BR1uU/dmQcCtdImgVblJvCmHTpx4Wr53s=
-			</data>
-		</dict>
-		<key>Modules/PingOneSDK.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2ZgYfJMNwg/cVbuRwWvcUFdcwz8MbBlQK4Zx+gXzlFs=
-			</data>
-		</dict>
-		<key>Modules/PingOneSDK.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Txe2IoMDMtMD503qYu9JvoMH7xcX8fZCuICURSG7MfE=
-			</data>
-		</dict>
-		<key>Modules/PingOneSDK.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pTdDXXZKL8BR1uU/dmQcCtdImgVblJvCmHTpx4Wr53s=
+			AWy+45ReliHlXH8eLNFiDIkGJCeoV1bAa2VgEmLoJdQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
